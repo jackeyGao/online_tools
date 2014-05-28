@@ -11,6 +11,7 @@ online_tools
 * [在线脑图「Mind42」](https://mind42.com/signin)
 * [在线脑图「国内」](http://naotu.baidu.com/#)
 * [Google 文档](https://docs.google.com)
+* [Microsoft Office Online - Web 上的 Word、Excel 和 PowerPoint](https://office.com/start/default.aspx)
 * [印象笔记 | 让记忆永存](https://www.yinxiang.com/)
 * [有道云笔记](https://note.youdao.com/web/?version=529952)
 * [为知笔记](https://note.wiz.cn/login)
@@ -19,7 +20,15 @@ online_tools
 * [金山快盘](http://www.kuaipan.cn/)
 * [云存储「所有类型文件支持外链」](http://www.qiniu.com/)
 * [python 在线开发环境「PythonAnywhere」](https://www.pythonanywhere.com/)
-
+* [FlipQuiz | 在线课堂竞赛节目演示工具](http://flipquiz.me/)
+* [ZenPen | 干净的编辑器](http://www.zenpen.io/)
+* [TOMODO | 在线网页修改编辑平台](http://www.tomodo.com/)
+* [Tackk — 在线网页主题编辑制作工具](https://tackk.com/)
+* [RegExr: Learn, Build, & Test RegEx | 正则表达式测试工具](http://www.regexr.com/)
+* [Image, document and audio conversor | 在线格式转换](http://ilovefile.com/)
+* [PDF to Word Online Converter – Free, Fast, Accurate : Convertii](http://convertii.com/)
+* [Rollip - 在线Lomo风格图片编辑工具，繁体中文](http://www.rollip.com/)
+* [可视化网页制作工具](https://webflow.com/dashboard)
 
 [4]:http://WWW.PROCESSON.COM
 [5]:http://slides.com/
