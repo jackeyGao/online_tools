@@ -11,7 +11,6 @@ online_tools
 * [在线脑图「Mind42」](https://mind42.com/signin)
 * [在线脑图「国内」](http://naotu.baidu.com/#)
 * [Google 文档](https://docs.google.com)
-* [洋葱 - 杨宗纬 - 百度音乐盒](http://play.baidu.com/)
 * [印象笔记 | 让记忆永存](https://www.yinxiang.com/)
 * [有道云笔记](https://note.youdao.com/web/?version=529952)
 * [为知笔记](https://note.wiz.cn/login)
