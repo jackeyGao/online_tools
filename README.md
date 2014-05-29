@@ -18,7 +18,7 @@ online_tools
 * [百度云](http://pan.baidu.com/disk/home)
 * [360云盘](http://yunpan.360.cn/)
 * [金山快盘](http://www.kuaipan.cn/)
-* [云存储「所有类型文件支持外链」](http://www.qiniu.com/)
+* [云存储「所有类型文件支持外链」](https://portal.qiniu.com/signup?code=3lkleyn0zr7ma)
 * [python 在线开发环境「PythonAnywhere」](https://www.pythonanywhere.com/)
 * [FlipQuiz | 在线课堂竞赛节目演示工具](http://flipquiz.me/)
 * [ZenPen | 干净的编辑器](http://www.zenpen.io/)
