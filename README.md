@@ -29,6 +29,9 @@ online_tools
 * [PDF to Word Online Converter – Free, Fast, Accurate : Convertii](http://convertii.com/)
 * [Rollip - 在线Lomo风格图片编辑工具，繁体中文](http://www.rollip.com/)
 * [可视化网页制作工具](https://webflow.com/dashboard)
+* [这个给跪了， 「工具大全」](http://util.io/list)
+* [软件开发工具,开发必备](http://xslt.online-toolz.com/)
+* 
 
 [4]:http://WWW.PROCESSON.COM
 [5]:http://slides.com/
