@@ -7,7 +7,7 @@ online_tools
 * [在线幻灯片制作 「slides」][5]
 * [在线幻灯片制作2 「strut」][6]  支持Impress、Bespoke、Handouts
 * [markdown编辑器「Markable.in」][0],[「Dillinger.io」][1],[「Mahua」][2],[「马克飞象」][3]
-* [在线脑图「Mind Maps」](http://www.mindmeister.com/public)
+* [在线脑图「Mind Maps」"收费可试用"](http://www.mindmeister.com/public)
 * [在线脑图「Mind42」](https://mind42.com/signin)
 * [在线脑图「国内」](http://naotu.baidu.com/#)
 * [Google 文档](https://docs.google.com)
