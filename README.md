@@ -33,6 +33,9 @@ online_tools
 * [这个给跪了， 「工具大全」](http://util.io/list)
 * [软件开发工具,开发必备](http://xslt.online-toolz.com/)
 * [格式转化神器](http://www.zamzar.com/)
+* [表格转换工具](http://tableconvert.com/)
+* [JSONPath工具](https://www.rdtoc.com/tools/jsonpath)
+* [JMESPath工具](https://www.rdtoc.com/tools/jmespath)
 
 [4]:http://WWW.PROCESSON.COM
 [5]:http://slides.com/
